@@ -7,5 +7,5 @@ After creating and releasing a live plugin, you may later want to introduce new 
 3. Scroll to the bottom of the new plugin, and click Import.
 4. Select the exported JSON file from step 1.
 5. Once the import completes, you now have a cloned \(but private\) plugin that you can modify.
-6. When you've tested you latest changes, you perform the opposite steps by exporting the newer plugin, and importing it into the older plugin.
+6. When you've tested your latest changes, you perform the opposite steps by exporting the newer plugin, and importing it into the older plugin.
 
